@@ -1,0 +1,11 @@
+S.No,Weather Condition,Road Condition,Traffic Condition,Engine Problem,Accident
+1,Rain,Bad,High,No,Yes
+2,Snow,Average,Normal,Yes,No
+3,Clear,Bad,Light,No,No
+4,Clear,Good,Light,Yes,Yes
+5,Snow,Good,Normal,No,No
+6,Rain,Average,Light,No,No
+7,Rain,Good,Normal,No,No
+8,Snow,Bad,High,No,Yes
+9,Clear,Good,High,Yes,No
+10,Clear,Bad,High,Yes,Yes

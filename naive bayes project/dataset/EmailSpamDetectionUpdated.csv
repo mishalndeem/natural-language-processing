@@ -1,0 +1,16 @@
+"Email
+ID","Contains
+Offer","Contains
+Link","Contains
+Greeting","Sender
+Known",Spam
+101,Yes,Yes,Yes,No,Yes
+102,No,No,Yes,Yes,No
+103,Yes,Yes,No,No,Yes
+104,No,Yes,Yes,Yes,No
+105,Yes,No,No,No,Yes
+106,No,No,Yes,No,No
+107,Yes,Yes,Yes,Yes,No
+108,No,Yes,No,No,Yes
+109,Yes,No,Yes,Yes,No
+110,No,No,No,No,Yes
